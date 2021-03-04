@@ -1,1 +1,0 @@
-# DigitalImageProcessing2021
